@@ -23,6 +23,7 @@ namespace FirstGitTest
             Console.WriteLine("Hello");
             Console.WriteLine("Hello");
             Class1 c = new Class1();
+            Class2 c2 = new Class2();
         }
     }
 }
